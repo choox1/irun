@@ -10,3 +10,6 @@ export default function Index() {
     </main>
   )
 }
+
+// Create a GitHub account
+// Create another project, a real project
